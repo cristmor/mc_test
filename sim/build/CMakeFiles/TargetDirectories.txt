@@ -1,0 +1,7 @@
+/home/cristmor/work/g4/user/Muon/mc_simulation_wtp_gui-master/sim/build/CMakeFiles/install/strip.dir
+/home/cristmor/work/g4/user/Muon/mc_simulation_wtp_gui-master/sim/build/CMakeFiles/install/local.dir
+/home/cristmor/work/g4/user/Muon/mc_simulation_wtp_gui-master/sim/build/CMakeFiles/install.dir
+/home/cristmor/work/g4/user/Muon/mc_simulation_wtp_gui-master/sim/build/CMakeFiles/list_install_components.dir
+/home/cristmor/work/g4/user/Muon/mc_simulation_wtp_gui-master/sim/build/CMakeFiles/rebuild_cache.dir
+/home/cristmor/work/g4/user/Muon/mc_simulation_wtp_gui-master/sim/build/CMakeFiles/edit_cache.dir
+/home/cristmor/work/g4/user/Muon/mc_simulation_wtp_gui-master/sim/build/CMakeFiles/exampleB4a.dir
